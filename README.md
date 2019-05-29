@@ -5,6 +5,6 @@ ZORK is a game of adventure, danger, and low cunning. In it you will explore som
 
 In ZORK the intrepid explorer delves into the forgotten secrets of a lost labyrinth deep in the bowels of the earth, searching for vast treasures long hidden from prying eyes, treasures guarded by fearsome monsters and diabolical traps!
 
-[ZORK](https://github.com/itafroma/zork-mdl) was created at the MIT Laboratory for Computer Science on a DEC PDP-10. It was inspired by the ADVENTURE game of Crowther and Woods, and the long tradition of fantasy and science fiction adventure.
+ZORK was created at the MIT Laboratory for Computer Science on a DEC PDP-10 [using a language called MDL](https://github.com/itafroma/zork-mdl) (alias MUDDLE). It was inspired by the ADVENTURE game of Crowther and Woods, and the long tradition of fantasy and science fiction adventure.
 
 This version of ZORK has been (slightly) altered in order to run on the [Confusion MDL Interpreter](http://www.ifarchive.org/indexes/if-archive/programming/mdl/interpreters/confusion/)
